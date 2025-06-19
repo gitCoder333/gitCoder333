@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Hello I am currently working on AI Projects
+
 Currently learning Django
+
 Looking to collaborate on an AI Projects
 
 I Love To Build 
